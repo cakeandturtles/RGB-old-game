@@ -1,0 +1,63 @@
+Essential Experience: Everything can kill you but you must rely on the things that can kill you to survive
+Aesthetic of Play:: Challenge & Discovery
+
+-Player may switch/rotate between three states
+-Green state has lesser gravity
+-Blue state has faster running ability but more inertia/slipperiness
+-Rules:
+-Enemies will only be affected by the presence of enemies in their field of vision
+-Field of vision varies per enemy type
+-Slopes to walk up. Rocks that can be pushed around by player/enemies
+
+
+
+-Friendly enemies appear seldom and can either be playful helpful like cats, or trapped by the environment or hunted by mean enemies
+
+-Enemies will go after targets that they have a element advantage over, primarily, and cower away from those strong against them
+-Likewise, Larger enemies go after smaller enemies, and smaller enemies run away.
+-Typically, size will dominate element
+
+-If two enemies are of like type and like size, they typically ignore each other
+-Depending on species type, creatures of like species will:
+-Protect smaller individuals of the species?
+-Destroy smaller individuals of the species
+(and this shall vary based on beast type)
+
+-Since you are the smallest of all (basically), almost every enemy will chase you. 
+-Top priority if you are the weaker color
+-Mid priority if neutral color
+-Lowest priority if strong color
+
+Classification of Beasts
+-Elemental Type
+-Size
+-Species (boar, owl, etc.)
+-Kingdom (plant, animal, fungi, mineral???)
+
+Each individual beast class shall have a way that they affect the environment
+-Physical effect (knocking down unstable trees or rocks, affecting the wind in an area, shake the earth?)
+-Elemental effect (follows the R>G>B>R trend)
+-All of this needs to be defined more
+
+Each individual beast class has a different way (slightly) of attacking, so it is possible that larger enemies may still be bested by smaller enemies?
+-Needs to be expanded on
+
+
+
+
+
+-I believe for this to work, the player may not have access to instantly switching colors, instead it should be controlled by 
+1) some sort of token/area which allows players to switch between colors 
+OR
+A) a limited number of color switches per area to be refilled by a token/area
+OR 
+@) the player must "charge" up character's concentration in order to switch
+OR
+something
+
+about an hour agoJake Aslan Trower
+another possibility for this: enemies of certain large enough sizes may have "sleepiness" meters/variables,
+
+wherein they are typically lazy and shit because they're big and huge and fat and know they are badasses anyways, but certain happenings close to them (same species of smaller sizes crying for help, other enemies provoking them too much, the player character making too much noise, or just a natural time period where the big creature gets hungry and must search for food) agitates them enough so that they will get up and not let almost fucking anything stay in their way.
+
+could leave player feeling tense when working around a giant enemy such as that and force him to think a little differently when solving puzzles so as to not wake him up by causing too much noise or not letting him get too hungry?
